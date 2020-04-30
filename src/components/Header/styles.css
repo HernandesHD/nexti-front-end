@@ -1,0 +1,41 @@
+header#main-header, .bg-dark {
+    background-color: #e84e0f !important;
+}
+
+.btn-sm {
+    margin: 2px;
+}
+
+.textDetail {
+    text-align: left;
+}
+
+.inputDetail {
+    text-align: left;
+}
+
+.container-home {
+    position: absolute;
+    bottom: 0;
+    width:100%;
+    margin-bottom: 60px;
+}
+
+.primeiro-item-home {
+    font-size: 38.3px;
+    margin-bottom: 20px;
+}
+
+.segundo-item-home {
+    background-color: rgba(232, 78, 15, 0.7);
+    padding: 20px 0px;
+    font-size: 24px;
+}
+
+@media (max-width: 320px) {
+    .segundo-item-home {
+        background-color: rgba(232, 78, 15, 0.7);
+        padding: 20px 0px;
+        font-size: 20px;
+    }
+}
