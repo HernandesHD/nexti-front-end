@@ -1,21 +1,20 @@
 # FRONT-END Handson - DESAFIO-NEXTI-JR
 
 
-`{
-  "name": "react",
-  "description": "React is a JavaScript library for building user interfaces.",
-  "keywords": [
-    "react"
-  ],
-  "version": "16.13.0",
-  "homepage": "https://reactjs.org/",
-  ...
-}
-`
+#### Tecnologias usadas:
 
+  1. `"react": "16.13.0"`
+  2. `Bootstrap 4`
 
+### Inicializando aplicação.
 
+  1. Download deste repositório.
+  2. Para que funcione perfeitamente, verificar se banco de dados e api foram inicializados.
+  3. Inicializar aplicação React com o seguinte comando:
+  
+  ### `yarn start`
 
+  
 
 
 
