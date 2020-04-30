@@ -10,7 +10,8 @@
 
   1. Download deste repositório.
   2. Para que funcione perfeitamente, verificar se banco de dados e api foram inicializados.
-  3. Inicializar aplicação React com o seguinte comando: `yarn start`
+  3. Entrar no diretório raiz do projeto react pelo prompt de comando.
+  3. Executar o seguinte comando: `yarn start` para iniciar a aplicação.
   
 ### Página Home:
 
